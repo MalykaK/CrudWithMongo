@@ -1,0 +1,79 @@
+[
+  {
+    "firstName": "Chad",
+    "lastName": "Doyle",
+    "email": "jennifer45@yahoo.com",
+    "gender": "Female",
+    "dob": "2005-05-12",
+    "course": "Computer Science",
+    "year": 3,
+    "gpa": 3.1,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Tanya",
+    "lastName": "Watson",
+    "email": "apeters@hotmail.com",
+    "gender": "Female",
+    "dob": "2004-08-28",
+    "course": "Computer Science",
+    "year": 4,
+    "gpa": 3.26,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Hernandez",
+    "email": "cody17@gmail.com",
+    "gender": "Male",
+    "dob": "2007-12-24",
+    "course": "Physics",
+    "year": 3,
+    "gpa": 3.68,
+    "enrollmentStatus": "Active"
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Moran",
+    "email": "beanchristina@hotmail.com",
+    "gender": "Male",
+    "dob": "2006-07-14",
+    "course": "Civil Engineering",
+    "year": 4,
+    "gpa": 3.2,
+    "enrollmentStatus": "Active"
+  },
+  {
+    "firstName": "Monique",
+    "lastName": "Rodriguez",
+    "email": "pam24@hernandez-tanner.org",
+    "gender": "Female",
+    "dob": "2004-10-05",
+    "course": "Information Technology",
+    "year": 3,
+    "gpa": 2.51,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Brendan",
+    "lastName": "Riggs",
+    "email": "hjimenez@gmail.com",
+    "gender": "Female",
+    "dob": "2006-03-14",
+    "course": "Mechanical Engineering",
+    "year": 3,
+    "gpa": 3.74,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Davis",
+    "email": "jennifer38@gmail.com",
+    "gender": "Female",
+    "dob": "2004-11-20",
+    "course": "Physics",
+    "year": 2,
+    "gpa": 2.64,
+    "enrollmentStatus": "Active"
+  }
+]

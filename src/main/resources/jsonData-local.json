@@ -1,0 +1,46 @@
+[
+  {
+    "firstName": "Donald",
+    "lastName": "Norris",
+    "email": "ebarnett@yahoo.com",
+    "gender": "Male",
+    "dob": "2005-09-11",
+    "course": "Information Technology",
+    "year": 4,
+    "gpa": 2.14,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Nelson",
+    "email": "sherrymoreno@gmail.com",
+    "gender": "Male",
+    "dob": "2005-06-03",
+    "course": "Physics",
+    "year": 4,
+    "gpa": 3.75,
+    "enrollmentStatus": "Active"
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Gray",
+    "email": "thomasfarmer@hotmail.com",
+    "gender": "Male",
+    "dob": "2002-11-15",
+    "course": "Economics",
+    "year": 1,
+    "gpa": 3.61,
+    "enrollmentStatus": "Inactive"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Crosby",
+    "email": "oward@hotmail.com",
+    "gender": "Female",
+    "dob": "2002-08-17",
+    "course": "Information Technology",
+    "year": 1,
+    "gpa": 2.95,
+    "enrollmentStatus": "Inactive"
+  }
+]
